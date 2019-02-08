@@ -25,4 +25,5 @@ find the access point of your device connect with it.
 open any web-browser, type 192.168.4.1 and hit Enter you will get following page on your mobile screen!
 
 
-![seminar one webpage demo](https://user-images.githubusercontent.com/44518572/52493313-20dd5680-2bf1-11e9-8630-f14a643a7b3e.png)
+
+![seminar one demo page](https://user-images.githubusercontent.com/44518572/52494129-2f2c7200-2bf3-11e9-8fd8-af5f9cef7f8c.png)
