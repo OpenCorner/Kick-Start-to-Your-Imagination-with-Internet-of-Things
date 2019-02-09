@@ -27,3 +27,12 @@ open any web-browser, type 192.168.4.1 and hit Enter you will get following page
 
 
 ![seminar one demo page](https://user-images.githubusercontent.com/44518572/52494129-2f2c7200-2bf3-11e9-8fd8-af5f9cef7f8c.png)
+
+
+ESP32 BOARD INSTALLATION LINK :
+
+https://dl.espressif.com/dl/package_esp32_index.json
+
+ESP8266 BOARD INSTALLATION LINK  :
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
