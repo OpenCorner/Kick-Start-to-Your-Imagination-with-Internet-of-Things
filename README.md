@@ -39,4 +39,4 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 **Seminar PPT:**
-Here we have attached ppt of the seminar. So you can download it.
+Here we have attached ppt of the seminar. So you can download it from https://github.com/OpenCorner/Kick-Start-to-Your-Imagination-with-Internet-of-Things/blob/master/Seminar_IoT.pptx
