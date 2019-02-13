@@ -36,3 +36,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ESP8266 BOARD INSTALLATION LINK  :
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+**Seminar PPT:**
+Here we have attached ppt of the seminar. So you can download it.
